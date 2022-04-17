@@ -25,4 +25,5 @@ discord
 virtualbox 
 vim 
 neovim 
+wine 
 

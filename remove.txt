@@ -1,0 +1,14 @@
+epiphany
+gedit
+gnome-boxes
+gnome-music
+gnome-terminal
+nautilus
+cheese
+gnome-contacts 
+gnome-remote-desktop
+gnome-software 
+totem 
+gnome-system-monitor
+gnome-maps
+gnome-books
